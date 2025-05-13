@@ -7,14 +7,11 @@ Firstly, i'm just started to learning coding, ok? 😊
 I'm in a path for the following languages:
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c-sharp"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/5%25-239120">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=html5&logoColor=white" alt="c-sharp"/>
+  <img src="https://img.shields.io/badge/css-239120?style=for-the-badge&logo=css&logoColor=white" alt="c-sharp"/>
+  <img src="https://img.shields.io/badge/javascript-239120?style=for-the-badge&logo=javascript&logoColor=white" alt="c-sharp"/>>
   </div>
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/10%25-3776AB">
-</div>
 
 # Currently i'm: ✨ 
 
